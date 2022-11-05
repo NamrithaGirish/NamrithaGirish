@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NamrithaGirish
-- 👀 I’m interested in Data Science, Cloud computing, Web and App Development
+- 👀 I’m interested in Data Science, Cloud computing, Web Development
 - 🌱 I’m currently a Computer Science Engineering student exploring the domains of Data Science and the AI world with Python 
 - 📫 How to reach me : namritha2003@gmail.com
 
